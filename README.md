@@ -15,8 +15,8 @@ Inspires everyone to embark on their own data analysis adventure.
 Fosters a collaborative learning environment where we can share insights and experiences.
 
 Feel free to:
-1.Explore the contents and learn from my journey.
-2.Fork the repository and customize it for your own learning path.
-3.Contribute your own resources and tips to the community.
+1.Explore the contents and learn from my journey./n
+2.Fork the repository and customize it for your own learning path./n
+3.Contribute your own resources and tips to the community./n
 
 Let's keep learning, growing, and unlocking the power of data together!
